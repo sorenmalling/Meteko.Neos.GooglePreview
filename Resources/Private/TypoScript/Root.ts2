@@ -1,1 +1,6 @@
 googleSearch < page
+googleSearch {
+	body {
+    	templatePath = 'resource://Meteko.Neos.GooglePreview/Private/Templates/Preview/GooglePreview.html'
+	}
+}
