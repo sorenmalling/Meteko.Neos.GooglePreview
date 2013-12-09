@@ -1,0 +1,10 @@
+TYPO3:
+  Neos:
+    userInterface:
+      editPreviewModes:
+        googleSearch:
+          isEditingMode: FALSE
+          isPreviewMode: TRUE
+          typoScriptRenderingPath: 'googleSearch'
+          title: 'Google Search'
+          position: 100
